@@ -1,0 +1,56 @@
+@media (max-width: 800px) {
+    .caixa-principal {
+        height: 1000px;
+        width: 1000px;
+
+    }
+
+    li .link-menu {
+        display: table-column;
+
+    }
+
+    section {
+        flex-direction: column;
+        background-color: #ffff;
+    }
+
+    section div {
+        flex-direction: column;
+        background-color: #ffff;
+
+    }
+
+    section div h2 {
+        font-size: 40px;
+        padding: 20% 15%;
+
+    }
+
+    section div p {
+        padding: 10%;
+    }
+
+}
+
+.projetos {
+    background-color: #ffffff;
+    padding: 20px;
+
+}
+
+.projetos h2 {
+    font-size: -200px;
+}
+
+.cards {
+    flex-direction: column;
+    padding: 25% 25%;
+
+
+}
+
+.card {
+    border-radius: 100%;
+}
+
