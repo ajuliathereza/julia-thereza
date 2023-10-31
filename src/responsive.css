@@ -31,6 +31,9 @@
         padding: 10%;
     }
 
+.img-eu {
+    height: 450px;
+}
 
 .projetos {
     background-color: #ffffff;
@@ -46,11 +49,10 @@
     flex-direction: column;
     padding: -5% 0%;
 
-
 }
 
 .card {
-    border-radius: 100%;
+    background-color: #ffff;
     height: 270px;
     width: 300px;
 }
@@ -62,6 +64,10 @@
 }
 .card img {
     height: 80px;
+}
+
+.card a {
+
 }
 
 }
